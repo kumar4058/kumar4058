@@ -1,18 +1,29 @@
 ### Hi there 👋
 
-
-**kumar4058/kumar4058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m Amit Kumar
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Block Chain Development
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Azure & AWS cloud architecture
+- 🌱 I’m also doing R&D in Block Chain Development using Solidity and Fabric
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with ...
 - 📫 You can reach me @
-    ✆ +91- 7838527000
-    ✉kumar4058@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    - ✆ +91- 7838527000
+    - ✉ kumar4058@gmail.com
+ 
+<b> Profile </b> <br/>
+   
+
+<b> Skill </b>
+<ul>
+<ol>System Designing </ol>
+<ol>Backend Development</ol>
+<ol>SOLID</ol>
+<ol>OOAD</ol>
+<ol>Azure Cloud</ol>
+<ol>DevOps</ol>
+<ol>Project Management</ol>
+<ol>Agile Methodologies</ol>
+</ul>
+
+<b> Technology </b>
+
 
