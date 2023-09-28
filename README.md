@@ -10,7 +10,9 @@
     - ✉ kumar4058@gmail.com
  
 <b> Profile </b> <br/>
-   
+* https://www.linkedin.com/in/amit-kumar-13a00112/
+* https://kumar4058.github.io/
+    
 
 <b> Skill </b>
 * System Designing 
